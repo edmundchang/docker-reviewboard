@@ -122,3 +122,6 @@ For example, if you use ```postfix```, you should change ```/etc/postfix/main.cf
 
 Upgrading to a new ReviewBoard version is as simple as pulling and running the latest image (or use a specific tag).
 The upgrade will be detected at runtime and `rb-site upgrade` will be executed. See: https://www.reviewboard.org/docs/manual/dev/admin/upgrading/upgrading-sites
+
+## Logging
+See: https://www.reviewboard.org/docs/manual/dev/admin/configuration/logging-settings/
